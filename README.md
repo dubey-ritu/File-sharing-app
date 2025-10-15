@@ -22,7 +22,7 @@ A real-time file sharing web application that allows users to share files secure
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Simple-File-Sharing-App.git
+git clone 
 ```
 
 2. Install dependencies:
