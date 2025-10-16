@@ -36,9 +36,6 @@ npm install
 npm start
 ```
 
-4. Access the application:
-   - Open your browser and visit `http://localhost:5000`
-
 ## How to Use
 
 ### For Sender
@@ -61,31 +58,4 @@ npm start
 - Express.js: ^4.17.1
 - Socket.IO: ^4.1.2
 
-## Development
-
-The project structure:
-```
-├── server.js           # Main server file
-├── public/            
-│   ├── index.html     # Sender interface
-│   ├── receiver.html  # Receiver interface
-│   ├── code.js        # Sender logic
-│   ├── receiver.js    # Receiver logic
-│   └── style.css      # Styling
-└── package.json
-```
-
-## License
-
-ISC
-
-## Contributing
-
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
-
-## Support
-
-For support, please open an issue in the repository.
+e open an issue in the repository.
